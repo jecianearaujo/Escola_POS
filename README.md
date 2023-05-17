@@ -18,11 +18,11 @@ O projeto foi criado com os seguintes auxiliadores:
 
 ### D.2:
 > Como rodar ?:
-##### Para poder executar o projeto Escola_POS é necessário seguir as instruções abaixo:
+#### Para poder executar o projeto Escola_POS é necessário seguir as instruções abaixo:
 - Faça o download dos arquivos do projeto
 - Abra o CMD do seu PC e inclua o diretório onde a pasta do projeto está localizada.
 - Após isso, insira o comando __php artisan serve__
-##### Com o comando dado, irá ser retornado um link. Abra ele no navegador de sua prefrência e note que ele ainda não está completo, mas já possui algumas funcões como:
+#### Com o comando dado, irá ser retornado um link. Abra ele no navegador de sua prefrência e note que ele ainda não está completo, mas já possui algumas funcões como:
 > "/"
 #### string JSON contendo __{“hello_url” : “/hello”}__.
 > "/hello"
